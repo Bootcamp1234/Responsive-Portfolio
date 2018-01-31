@@ -195,14 +195,30 @@ body {
     border-bottom: 0;
   }
   
-  .auth-image {
+  /* .auth-image {
     float: left;
     width: 200px;
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
-  }
+  } */
   
+#cake {
+margin-bottom: 107px;
+}
+
+#coding{
+  margin-bottom: 56px;
+}
+
+#fly{
+  margin-bottom: 103px;
+}
+
+#outdoor{
+  margin-bottom: 56px;
+}
+
   /* contact page */
   
   #contact-form ul {
